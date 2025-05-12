@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🧠 Estratégia de Coleta de Dados
 
 ### 📊 Índice de Serviços Caixin Chinês
@@ -43,3 +44,6 @@ Essa abordagem foi:
 
 O resultado é salvo como:  
 `usd_cny_data_alpha_vantage.csv`
+=======
+# financial_data_pipeline
+>>>>>>> ee907feae69170c01f1576d5d710cfd006b298f1
