@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 ## 🧠 Estratégia de Coleta de Dados
 
-### 📊 Índice de Serviços Caixin Chinês
+###  Índice de Serviços Caixin Chinês
 
 📌 **Fonte oficial**:  
 [https://br.investing.com/economic-calendar/chinese-caixin-services-pmi-596]
@@ -30,7 +29,7 @@ A coleta de dados históricos desde **1991 até hoje** foi mais desafiadora:
 Tentei extrair os dados diretamente da [página histórica](https://br.investing.com/currencies/usd-cny-historical-data) utilizando automações com `Selenium`, `PyAutoGUI` e até manipulações via JavaScript.  
 No entanto, o filtro de datas dessa interface não respondia adequadamente a nenhum desses métodos — ele é altamente dinâmico e dependente de interações visuais específicas, o que tornava a automação instável e inviável sem uma VM dedicada.
 
-> 🧪 O trecho dessa abordagem está disponível, nome do arquivo é `caixin_services_china_site` apenas para fins de avaliação técnica.
+🧪 O trecho dessa abordagem está disponível, nome do arquivo é `caixin_services_china_site` apenas para fins de avaliação técnica.
 
 #### 2. Decisão final — API da Alpha Vantage
 
