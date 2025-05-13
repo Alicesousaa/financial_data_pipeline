@@ -57,4 +57,6 @@ api_key = 'ELUGE0PWVIMRDQRK'  # Substitua pela sua chave de API
 usd_cny_data = get_usd_cny_data(api_key)  # Chamando a função 
 
 
-usd_cny_data.to_csv('usd_cny_data_alpha_vantage.csv', index=False)  # Salvando os dados em um arquivo CSV
+usd_cny_data.to_csv(r'C:\Users\alice\Documents\Projeto_suzano\extracao_dados\data\usd_cny_data_alpha_vantage.csv', index=False)
+
+ # Salvando os dados em um arquivo CSV
